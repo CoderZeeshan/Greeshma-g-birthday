@@ -68,7 +68,7 @@
 <body>
   <canvas id="confetti"></canvas>
 
-  <h1 id="birthdayMsg">🎉 Happy Birthday Zehra! 🎉</h1>
+  <h1 id="birthdayMsg">🎉 Happy Birthday Greeshma! 🎉</h1>
   <p id="wishPara">May your day be filled with laughter, love, and all the anime you adore! Keep shining like the star you are 💫</p>
 
   <button class="button" onclick="revealMsg('birthdayMsg')">Click for Surprise 🎁</button>
