@@ -69,7 +69,7 @@
   <canvas id="confetti"></canvas>
 
   <h1 id="birthdayMsg">🎉 Happy Birthday Greeshma! 🎉</h1>
-  <p id="wishPara">May your day be filled with laughter, love, and all the anime you adore! Keep shining like the star you are 💫</p>
+  <p id="wishPara">May your day be filled with laughter, and all the anime you adore! Keep shining like the star you are 💫</p>
 
   <button class="button" onclick="revealMsg('birthdayMsg')">Click for Surprise 🎁</button>
   <button class="button" onclick="revealMsg('wishPara')">Click for a Message 💌</button>
